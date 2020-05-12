@@ -1,0 +1,6 @@
+the rainbow has following colors
+purple
+orange 
+pink
+red
+green
